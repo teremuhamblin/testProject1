@@ -94,7 +94,7 @@ Ce projet est sous licence MIT.
 >> Teremu Hamblin - @teremuhamblin
 
 ### Ce qui a été amélioré :
-1. **Sécurité ajoutée :** Un encadré d'avertissement ###### invitant à créer un point de restauration (crucial pour tout script de tweak Windows).
+1. **Sécurité ajoutée :** Un encadré d'avertissement invitant à créer un point de restauration (crucial pour tout script de tweak Windows).
 2. **Badges GitHub :** Ajout de badges Windows 10, PowerShell, et statut.
 3. **Clarification de l'argument `-Wrapper` :** Présenté comme une interface/menu interactif.
 4. **Précision des prérequis :** Mention indispensable de lancer la console en mode **Administrateur**.
